@@ -1,0 +1,5 @@
+{
+  "name": "IoT Math Series Manager",
+  "description": "A modern, responsive frontend for managing mathematical series (Fibonacci, Taylor, Maclaurin) with IoT integration.",
+  "requestFramePermissions": []
+}
